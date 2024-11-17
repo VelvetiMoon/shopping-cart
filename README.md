@@ -18,3 +18,4 @@ libraries
   - react-dom
   - react-scripts
 - React Router
+![shopping-cart](https://github.com/user-attachments/assets/9899e105-4d77-47d9-8c6c-b154f55bce35)
